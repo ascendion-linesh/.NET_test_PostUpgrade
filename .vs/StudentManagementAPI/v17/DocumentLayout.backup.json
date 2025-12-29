@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\linesh.mishra\\Downloads\\StudentManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AB8FC-033D-44EB-8BAB-6986959CE257}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\linesh.mishra\\downloads\\studentmanagementapi\\studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5AB8FC-033D-44EB-8BAB-6986959CE257}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AB8FC-033D-44EB-8BAB-6986959CE257}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\linesh.mishra\\downloads\\studentmanagementapi\\studentmanagementapi\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5AB8FC-033D-44EB-8BAB-6986959CE257}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AB8FC-033D-44EB-8BAB-6986959CE257}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\linesh.mishra\\downloads\\studentmanagementapi\\studentmanagementapi\\studentmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E5AB8FC-033D-44EB-8BAB-6986959CE257}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\studentmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AB8FC-033D-44EB-8BAB-6986959CE257}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\linesh.mishra\\downloads\\studentmanagementapi\\studentmanagementapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5AB8FC-033D-44EB-8BAB-6986959CE257}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5AB8FC-033D-44EB-8BAB-6986959CE257}|StudentManagementAPI\\StudentManagementAPI.csproj|c:\\users\\linesh.mishra\\downloads\\studentmanagementapi\\studentmanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5AB8FC-033D-44EB-8BAB-6986959CE257}|StudentManagementAPI\\StudentManagementAPI.csproj|solutionrelative:studentmanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\linesh.mishra\\Downloads\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\linesh.mishra\\Downloads\\StudentManagementAPI\\StudentManagementAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:26:02.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\linesh.mishra\\Downloads\\StudentManagementAPI\\StudentManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\linesh.mishra\\Downloads\\StudentManagementAPI\\StudentManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:25:57.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\linesh.mishra\\Downloads\\StudentManagementAPI\\StudentManagementAPI\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\linesh.mishra\\Downloads\\StudentManagementAPI\\StudentManagementAPI\\Model\\Student.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:25:54.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentManagementAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\linesh.mishra\\Downloads\\StudentManagementAPI\\StudentManagementAPI\\StudentManagementAPI.csproj",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\StudentManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\linesh.mishra\\Downloads\\StudentManagementAPI\\StudentManagementAPI\\StudentManagementAPI.csproj",
+              "RelativeToolTip": "StudentManagementAPI\\StudentManagementAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T15:20:45.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\linesh.mishra\\Downloads\\StudentManagementAPI\\StudentManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\linesh.mishra\\Downloads\\StudentManagementAPI\\StudentManagementAPI\\Program.cs",
+              "RelativeToolTip": "StudentManagementAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:07:16.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
